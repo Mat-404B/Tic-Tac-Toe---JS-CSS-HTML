@@ -43,7 +43,7 @@ hr {
     display: none;
     position: absolute;
     left: calc(50% + 200px);
-    top: 42%;
+    top: 265px;
     transform: translateY(-50%);
 
     width: 100px;
@@ -69,6 +69,7 @@ hr {
 
     .game {
         flex-direction: column;
+        align-items: center;
         gap: 20px;
     }
 
